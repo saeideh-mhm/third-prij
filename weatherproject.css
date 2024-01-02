@@ -1,0 +1,14 @@
+.btnn{
+    margin: 10px;
+    padding: 5px;
+}
+::placeholder{
+   color:  rgb(18, 24, 139);
+}
+
+.line{
+    border-left: 1px solid #000; /* انتخاب رنگ و عرض خط بر اساس نیاز شما */
+    height: 140px; /* انتخاب ارتفاع خط بر اساس نیاز شما */
+    margin:0px  30px;
+    
+}
